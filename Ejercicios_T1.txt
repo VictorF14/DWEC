@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------------------------------
+Tarea_1
+Responde a las siguientes cuestiones:
+a)¿Que es la ECMA?
+- Es un lenguaje de programacion de tipos dinamicos inspirados en java y otros lenguajes como C
+b)¿Que es el estandar ECMA-262?
+es un estándar publicado por ECMA International que define el lenguaje de programación ECMAScript,
+más conocido por ser la base de lenguajes como JavaScript
+
+-------------------------------------------------------------------------------------------------------
+Tarea_2
+1-ECMAScript 1 (1997): La primera versión que estableció los conceptos básicos del lenguaje, 
+como variables, funciones, bucles y objetos1.
+-------------------
+2-ECMAScript 2 (1998): Principalmente una revisión editorial de la primera versión, sin cambios significativos1.
+-------------------
+3-ECMAScript 3 (1999): Introdujo expresiones regulares, mejor manejo de cadenas, nuevas 
+declaraciones de control y manejo de excepciones1.
+-------------------
+4-ECMAScript 4: Nunca fue lanzado oficialmente debido a desacuerdos en la comunidad de desarrollo1.
+-------------------
+5-ECMAScript 5 (2009): Añadió características como el modo estricto, JSON nativo, y métodos avanzados 
+para la manipulación de objetos y arrays2.
+-------------------
+6-ECMAScript 5.1 (2011): Una actualización menor que corrigió errores y mejoró la especificación de ES53.
+-------------------
+7-ECMAScript 2015 (ES6): Introdujo muchas características nuevas como clases, módulos, promesas, 
+y funciones de flecha4.
+-------------------
+8-ECMAScript 2016: Añadió el operador de exponenciación (**) y el método Array.prototype.includes5.
+-------------------
+9-ECMAScript 2017: Introdujo async/await para manejar promesas, y métodos como Object.entries y Object.values6.
+-------------------
+10-ECMAScript 2018: Añadió características como async iterators, Promise.finally, y mejoras 
+en el manejo de objetos7.
+-------------------
+11-ECMAScript 2019: Introdujo Array.prototype.flat y Array.prototype.flatMap, así como 
+mejoras en el manejo de cadenas1.
+-------------------
+12-ECMAScript 2020: Añadió características como BigInt, dynamic import, y el operador de 
+encadenamiento opcional1.
+-------------------
+13-ECMAScript 2021: Introdujo el operador lógico de encadenamiento nulo y mejoras en el manejo de cadenas1.
+-------------------
+14-ECMAScript 2022: Añadió características como top-level await y mejoras en el manejo de módulos1.
+-------------------
+15-ECMAScript 2023: Introdujo mejoras en el manejo de promesas y nuevas funciones para la 
+manipulación de arrays1.
+-------------------
+16-ECMAScript 2024: La versión más reciente, con mejoras en la eficiencia y nuevas 
+características para el desarrollo web1.
+-------------------
+
+
+
+
